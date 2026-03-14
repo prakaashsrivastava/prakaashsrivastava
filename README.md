@@ -88,11 +88,11 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 
 ---
 
-### **📈 GitHub Impact**
+### **📈 GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Prakaash's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=prakaashsrivastava&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakaashsrivastava&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
