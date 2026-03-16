@@ -91,15 +91,12 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 ### **📈 GitHub Stats**
 
 ![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true)
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Prakaash's GitHub Stats" /> -->
-  ![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true)
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true&commits_year=2026" alt="Prakaash's GitHub Stats" /> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakaashsrivastava&theme=radical" alt="GitHub Streak" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=radical&hide=html,css" alt="Top Languages" /> -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=radical&hide=html,css)
-</p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=radical&hide=html,css)
+
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakaashsrivastava&theme=radical" alt="GitHub Streak" />
+</p> -->
 ---
 
 ### **🔗 Connect with Me**
