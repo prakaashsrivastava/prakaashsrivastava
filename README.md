@@ -94,17 +94,14 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=transparent&hide=html,css)
 
-<!-- ### **📅 Contribution Graph**
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakaashsrivastava&theme=transparent) -->
-
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakaashsrivastava&theme=radical" alt="GitHub Streak" />
 </p> -->
 ---
 
 ### **🔗 Connect with Me**
-🌐 [Portfolio](https://prakaashsrivastava.com/) 💼 [LinkedIn](https://linkedin.com/in/prakaashsrivastava) 📧 [Email](mailto:jobforprakashsrivastava@gmail.com)
+
+[![portfolio](https://img.shields.io/badge/Portfolio-112?logoUrl=https://prakaashsrivastava.com/logo.svg&logoColor=white)](https://prakaashsrivastava.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jobforprakashsrivastava@gmail.com ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakaashsrivastava)
 
 ---
 
