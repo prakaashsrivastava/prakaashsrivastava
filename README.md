@@ -90,7 +90,7 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 
 ### **📈 GitHub Stats**
 
-![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true&count_total_commits=true&theme=transparent)
+![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&rank_icon=github&count_private=true&count_total_commits=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=transparent&hide=html,css)
 
