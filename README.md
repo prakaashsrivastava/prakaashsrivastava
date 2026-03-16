@@ -90,9 +90,13 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 
 ### **📈 GitHub Stats**
 
-![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true&count_total_commits=true)
+![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true&count_total_commits=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=radical&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=transparent&hide=html,css)
+
+### **📅 Contribution Graph**
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakaashsrivastava&theme=transparent)
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakaashsrivastava&theme=radical" alt="GitHub Streak" />
@@ -100,9 +104,9 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 ---
 
 ### **🔗 Connect with Me**
-- 🌐 [Official Portfolio](https://prakaashsrivastava.com/)
-- 💼 [LinkedIn Profile](https://linkedin.com/in/prakaashsrivastava)
-- 📧 [Direct Email](mailto:jobforprakashsrivastava@gmail.com)
+- 🌐 [Portfolio](https://prakaashsrivastava.com/)
+- 💼 [LinkedIn](https://linkedin.com/in/prakaashsrivastava)
+- 📧 [Email](mailto:jobforprakashsrivastava@gmail.com)
 
 ---
 
