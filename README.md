@@ -90,9 +90,9 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 
 ### **📈 GitHub Stats**
 
-![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true&count_total_commits=true)
+![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&rank_icon=github&count_private=true&count_total_commits=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=radical&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=transparent&hide=html,css)
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakaashsrivastava&theme=radical" alt="GitHub Streak" />
@@ -100,9 +100,8 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 ---
 
 ### **🔗 Connect with Me**
-- 🌐 [Official Portfolio](https://prakaashsrivastava.com/)
-- 💼 [LinkedIn Profile](https://linkedin.com/in/prakaashsrivastava)
-- 📧 [Direct Email](mailto:jobforprakashsrivastava@gmail.com)
+
+[![portfolio](https://img.shields.io/badge/Portfolio-112?logoUrl=https://prakaashsrivastava.com/logo.svg&logoColor=white)](https://prakaashsrivastava.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jobforprakashsrivastava@gmail.com ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakaashsrivastava)
 
 ---
 
