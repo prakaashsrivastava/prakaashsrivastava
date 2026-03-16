@@ -90,6 +90,7 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 
 ### **📈 GitHub Stats**
 
+![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true)
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Prakaash's GitHub Stats" /> -->
   ![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true)
