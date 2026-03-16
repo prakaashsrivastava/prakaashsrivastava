@@ -14,7 +14,7 @@
 ---
 
 ### **🏢 Professional Persona**
-I am a seasoned technology leader specializing in bridging the gap between business vision and technical excellence. My journey is defined by leading high-performing engineering teams (10+ members), architecting scalable multi-tenant SaaS systems, and driving AI-centric digital transformations across Web, Mobile, and Gaming platforms.
+I am a seasoned technology leader specializing in bridging the gap between business vision and technical excellence. My journey is defined by leading high-performing engineering teams (15+ members), architecting scalable multi-tenant SaaS systems, and driving AI-centric digital transformations across Web, Mobile, and Gaming platforms.
 
 ---
 
@@ -90,7 +90,7 @@ I am a seasoned technology leader specializing in bridging the gap between busin
 
 ### **📈 GitHub Stats**
 
-![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true)
+![Prakaash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakaashsrivastava&show_icons=true&theme=radical&rank_icon=github&count_private=true&count_total_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakaashsrivastava&layout=compact&theme=radical&hide=html,css)
 
